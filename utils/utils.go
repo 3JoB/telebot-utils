@@ -3,10 +3,9 @@ package utils
 import (
 	"errors"
 
+	"github.com/3JoB/ulib/json"
 	"github.com/spf13/cast"
 	"github.com/tidwall/gjson"
-
-	"github.com/3JoB/ulib/json"
 )
 
 type AdminInfo struct {

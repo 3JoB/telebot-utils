@@ -4,10 +4,9 @@ import (
 	"path"
 
 	tele "github.com/3JoB/telebot"
+	"github.com/3JoB/ulib/json"
 	"github.com/sirupsen/logrus"
 	"gopkg.in/natefinch/lumberjack.v2"
-
-	"github.com/3JoB/ulib/json"
 )
 
 var (

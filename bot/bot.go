@@ -2,9 +2,9 @@ package bot
 
 import (
 	"fmt"
-	"net/http"
 	"os"
 
+	"github.com/3JoB/nhtp"
 	tele "github.com/3JoB/telebot"
 	telemw "github.com/3JoB/telebot/middleware"
 
